@@ -1,0 +1,5 @@
+{
+  "name": "AI UI Image Editor",
+  "description": "An intelligent UI image editor powered by Gemini. Upload a base image, optionally a reference image, mask an area, and use natural language prompts in Spanish to apply edits. The application generates an edited image, a layered SVG, and a JSON layout description.",
+  "requestFramePermissions": []
+}
